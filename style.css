@@ -5,3 +5,7 @@
 .bgimage{
     filter: brightness(50%);
 }
+
+img.d-block.w-100.bgimage {
+    height: 640px;
+}
