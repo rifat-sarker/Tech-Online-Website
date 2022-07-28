@@ -1,0 +1,17 @@
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 8.25rem;
+    left: 15%;
+    padding-top: -26.75rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+    
+}
+.button-color{
+    background-color: #289BDE;
+}
+.bgimage{
+    filter: brightness(50%);
+}
